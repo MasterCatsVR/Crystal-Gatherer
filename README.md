@@ -1,2 +1,3 @@
 # Crystal-Gatherer
-Adds crystals to the ore gatherer.
+
+Adds crystals and crystal shards to the ore gatherer skill.
